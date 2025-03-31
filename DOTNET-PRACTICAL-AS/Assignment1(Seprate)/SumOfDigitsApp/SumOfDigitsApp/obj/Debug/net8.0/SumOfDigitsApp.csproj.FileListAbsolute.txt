@@ -1,0 +1,14 @@
+C:\Users\omgaw\source\repos\SumOfDigitsApp\SumOfDigitsApp\bin\Debug\net8.0\SumOfDigitsApp.exe
+C:\Users\omgaw\source\repos\SumOfDigitsApp\SumOfDigitsApp\bin\Debug\net8.0\SumOfDigitsApp.deps.json
+C:\Users\omgaw\source\repos\SumOfDigitsApp\SumOfDigitsApp\bin\Debug\net8.0\SumOfDigitsApp.runtimeconfig.json
+C:\Users\omgaw\source\repos\SumOfDigitsApp\SumOfDigitsApp\bin\Debug\net8.0\SumOfDigitsApp.dll
+C:\Users\omgaw\source\repos\SumOfDigitsApp\SumOfDigitsApp\bin\Debug\net8.0\SumOfDigitsApp.pdb
+C:\Users\omgaw\source\repos\SumOfDigitsApp\SumOfDigitsApp\obj\Debug\net8.0\SumOfDigitsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omgaw\source\repos\SumOfDigitsApp\SumOfDigitsApp\obj\Debug\net8.0\SumOfDigitsApp.AssemblyInfoInputs.cache
+C:\Users\omgaw\source\repos\SumOfDigitsApp\SumOfDigitsApp\obj\Debug\net8.0\SumOfDigitsApp.AssemblyInfo.cs
+C:\Users\omgaw\source\repos\SumOfDigitsApp\SumOfDigitsApp\obj\Debug\net8.0\SumOfDigitsApp.csproj.CoreCompileInputs.cache
+C:\Users\omgaw\source\repos\SumOfDigitsApp\SumOfDigitsApp\obj\Debug\net8.0\SumOfDigitsApp.dll
+C:\Users\omgaw\source\repos\SumOfDigitsApp\SumOfDigitsApp\obj\Debug\net8.0\refint\SumOfDigitsApp.dll
+C:\Users\omgaw\source\repos\SumOfDigitsApp\SumOfDigitsApp\obj\Debug\net8.0\SumOfDigitsApp.pdb
+C:\Users\omgaw\source\repos\SumOfDigitsApp\SumOfDigitsApp\obj\Debug\net8.0\SumOfDigitsApp.genruntimeconfig.cache
+C:\Users\omgaw\source\repos\SumOfDigitsApp\SumOfDigitsApp\obj\Debug\net8.0\ref\SumOfDigitsApp.dll

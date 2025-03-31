@@ -1,0 +1,15 @@
+C:\Users\omgaw\source\repos\OOP_EmployeeApp\OOP_EmployeeApp\bin\Debug\net8.0\OOP_EmployeeApp.exe
+C:\Users\omgaw\source\repos\OOP_EmployeeApp\OOP_EmployeeApp\bin\Debug\net8.0\OOP_EmployeeApp.deps.json
+C:\Users\omgaw\source\repos\OOP_EmployeeApp\OOP_EmployeeApp\bin\Debug\net8.0\OOP_EmployeeApp.runtimeconfig.json
+C:\Users\omgaw\source\repos\OOP_EmployeeApp\OOP_EmployeeApp\bin\Debug\net8.0\OOP_EmployeeApp.dll
+C:\Users\omgaw\source\repos\OOP_EmployeeApp\OOP_EmployeeApp\bin\Debug\net8.0\OOP_EmployeeApp.pdb
+C:\Users\omgaw\source\repos\OOP_EmployeeApp\OOP_EmployeeApp\obj\Debug\net8.0\OOP_EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omgaw\source\repos\OOP_EmployeeApp\OOP_EmployeeApp\obj\Debug\net8.0\OOP_EmployeeApp.AssemblyInfoInputs.cache
+C:\Users\omgaw\source\repos\OOP_EmployeeApp\OOP_EmployeeApp\obj\Debug\net8.0\OOP_EmployeeApp.AssemblyInfo.cs
+C:\Users\omgaw\source\repos\OOP_EmployeeApp\OOP_EmployeeApp\obj\Debug\net8.0\OOP_EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\omgaw\source\repos\OOP_EmployeeApp\OOP_EmployeeApp\obj\Debug\net8.0\OOP_EmployeeApp.sourcelink.json
+C:\Users\omgaw\source\repos\OOP_EmployeeApp\OOP_EmployeeApp\obj\Debug\net8.0\OOP_EmployeeApp.dll
+C:\Users\omgaw\source\repos\OOP_EmployeeApp\OOP_EmployeeApp\obj\Debug\net8.0\refint\OOP_EmployeeApp.dll
+C:\Users\omgaw\source\repos\OOP_EmployeeApp\OOP_EmployeeApp\obj\Debug\net8.0\OOP_EmployeeApp.pdb
+C:\Users\omgaw\source\repos\OOP_EmployeeApp\OOP_EmployeeApp\obj\Debug\net8.0\OOP_EmployeeApp.genruntimeconfig.cache
+C:\Users\omgaw\source\repos\OOP_EmployeeApp\OOP_EmployeeApp\obj\Debug\net8.0\ref\OOP_EmployeeApp.dll

@@ -1,0 +1,7 @@
+D:\AS2_OOP-Based-Calculator\AS2_OOP-Based-Calculator\bin\Debug\AS2_OOP-Based-Calculator.exe.config
+D:\AS2_OOP-Based-Calculator\AS2_OOP-Based-Calculator\bin\Debug\AS2_OOP-Based-Calculator.exe
+D:\AS2_OOP-Based-Calculator\AS2_OOP-Based-Calculator\bin\Debug\AS2_OOP-Based-Calculator.pdb
+D:\AS2_OOP-Based-Calculator\AS2_OOP-Based-Calculator\obj\Debug\AS2_OOP-Based-Calculator.csproj.AssemblyReference.cache
+D:\AS2_OOP-Based-Calculator\AS2_OOP-Based-Calculator\obj\Debug\AS2_OOP-Based-Calculator.csproj.CoreCompileInputs.cache
+D:\AS2_OOP-Based-Calculator\AS2_OOP-Based-Calculator\obj\Debug\AS2_OOP-Based-Calculator.exe
+D:\AS2_OOP-Based-Calculator\AS2_OOP-Based-Calculator\obj\Debug\AS2_OOP-Based-Calculator.pdb

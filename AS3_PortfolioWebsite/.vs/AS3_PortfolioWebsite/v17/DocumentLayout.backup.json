@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AS3_PortfolioWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26574E00-3675-423C-B411-3D27BD2257AE}|AS3_PortfolioWebsite\\AS3_PortfolioWebsite.csproj|d:\\as3_portfoliowebsite\\as3_portfoliowebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26574E00-3675-423C-B411-3D27BD2257AE}|AS3_PortfolioWebsite\\AS3_PortfolioWebsite.csproj|solutionrelative:as3_portfoliowebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26574E00-3675-423C-B411-3D27BD2257AE}|AS3_PortfolioWebsite\\AS3_PortfolioWebsite.csproj|d:\\as3_portfoliowebsite\\as3_portfoliowebsite\\views\\home\\download.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26574E00-3675-423C-B411-3D27BD2257AE}|AS3_PortfolioWebsite\\AS3_PortfolioWebsite.csproj|solutionrelative:as3_portfoliowebsite\\views\\home\\download.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26574E00-3675-423C-B411-3D27BD2257AE}|AS3_PortfolioWebsite\\AS3_PortfolioWebsite.csproj|d:\\as3_portfoliowebsite\\as3_portfoliowebsite\\views\\home\\techskills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26574E00-3675-423C-B411-3D27BD2257AE}|AS3_PortfolioWebsite\\AS3_PortfolioWebsite.csproj|solutionrelative:as3_portfoliowebsite\\views\\home\\techskills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26574E00-3675-423C-B411-3D27BD2257AE}|AS3_PortfolioWebsite\\AS3_PortfolioWebsite.csproj|d:\\as3_portfoliowebsite\\as3_portfoliowebsite\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26574E00-3675-423C-B411-3D27BD2257AE}|AS3_PortfolioWebsite\\AS3_PortfolioWebsite.csproj|solutionrelative:as3_portfoliowebsite\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26574E00-3675-423C-B411-3D27BD2257AE}|AS3_PortfolioWebsite\\AS3_PortfolioWebsite.csproj|d:\\as3_portfoliowebsite\\as3_portfoliowebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26574E00-3675-423C-B411-3D27BD2257AE}|AS3_PortfolioWebsite\\AS3_PortfolioWebsite.csproj|solutionrelative:as3_portfoliowebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26574E00-3675-423C-B411-3D27BD2257AE}|AS3_PortfolioWebsite\\AS3_PortfolioWebsite.csproj|d:\\as3_portfoliowebsite\\as3_portfoliowebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26574E00-3675-423C-B411-3D27BD2257AE}|AS3_PortfolioWebsite\\AS3_PortfolioWebsite.csproj|solutionrelative:as3_portfoliowebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\AS3_PortfolioWebsite\\AS3_PortfolioWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AS3_PortfolioWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\AS3_PortfolioWebsite\\AS3_PortfolioWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AS3_PortfolioWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T19:36:09.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Download.cshtml",
+              "DocumentMoniker": "D:\\AS3_PortfolioWebsite\\AS3_PortfolioWebsite\\Views\\Home\\Download.cshtml",
+              "RelativeDocumentMoniker": "AS3_PortfolioWebsite\\Views\\Home\\Download.cshtml",
+              "ToolTip": "D:\\AS3_PortfolioWebsite\\AS3_PortfolioWebsite\\Views\\Home\\Download.cshtml",
+              "RelativeToolTip": "AS3_PortfolioWebsite\\Views\\Home\\Download.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T19:35:42.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TechSkills.cshtml",
+              "DocumentMoniker": "D:\\AS3_PortfolioWebsite\\AS3_PortfolioWebsite\\Views\\Home\\TechSkills.cshtml",
+              "RelativeDocumentMoniker": "AS3_PortfolioWebsite\\Views\\Home\\TechSkills.cshtml",
+              "ToolTip": "D:\\AS3_PortfolioWebsite\\AS3_PortfolioWebsite\\Views\\Home\\TechSkills.cshtml",
+              "RelativeToolTip": "AS3_PortfolioWebsite\\Views\\Home\\TechSkills.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T19:34:45.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\AS3_PortfolioWebsite\\AS3_PortfolioWebsite\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "AS3_PortfolioWebsite\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\AS3_PortfolioWebsite\\AS3_PortfolioWebsite\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "AS3_PortfolioWebsite\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T19:33:45.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AS3_PortfolioWebsite\\AS3_PortfolioWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AS3_PortfolioWebsite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\AS3_PortfolioWebsite\\AS3_PortfolioWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AS3_PortfolioWebsite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T19:32:20.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\AS3_PortfolioWebsite\\AS3_PortfolioWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AS3_PortfolioWebsite\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\AS3_PortfolioWebsite\\AS3_PortfolioWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AS3_PortfolioWebsite\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:30:00.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

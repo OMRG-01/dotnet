@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omgaw\\source\\repos\\DOTNET-PRACTICAL-AS\\Assignment2\\ExceptionHandlingSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24A1B4E1-A38C-4390-A6E9-996252D7247F}|ExceptionHandlingApp\\ExceptionHandlingApp.csproj|c:\\users\\omgaw\\source\\repos\\dotnet-practical-as\\assignment2\\exceptionhandlingsolution\\exceptionhandlingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A1B4E1-A38C-4390-A6E9-996252D7247F}|ExceptionHandlingApp\\ExceptionHandlingApp.csproj|solutionrelative:exceptionhandlingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7F8B9C-55BC-4F86-85F2-6007535C0182}|ClassLibrary1\\MyOperationsLibrary.csproj|c:\\users\\omgaw\\source\\repos\\dotnet-practical-as\\assignment2\\exceptionhandlingsolution\\classlibrary1\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7F8B9C-55BC-4F86-85F2-6007535C0182}|ClassLibrary1\\MyOperationsLibrary.csproj|solutionrelative:classlibrary1\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7F8B9C-55BC-4F86-85F2-6007535C0182}|ClassLibrary1\\MyOperationsLibrary.csproj|c:\\users\\omgaw\\source\\repos\\dotnet-practical-as\\assignment2\\exceptionhandlingsolution\\classlibrary1\\myoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7F8B9C-55BC-4F86-85F2-6007535C0182}|ClassLibrary1\\MyOperationsLibrary.csproj|solutionrelative:classlibrary1\\myoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCustomException.cs",
+              "DocumentMoniker": "C:\\Users\\omgaw\\source\\repos\\DOTNET-PRACTICAL-AS\\Assignment2\\ExceptionHandlingSolution\\ClassLibrary1\\MyCustomException.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\MyCustomException.cs",
+              "ToolTip": "C:\\Users\\omgaw\\source\\repos\\DOTNET-PRACTICAL-AS\\Assignment2\\ExceptionHandlingSolution\\ClassLibrary1\\MyCustomException.cs",
+              "RelativeToolTip": "ClassLibrary1\\MyCustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:59:05.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyOperations.cs",
+              "DocumentMoniker": "C:\\Users\\omgaw\\source\\repos\\DOTNET-PRACTICAL-AS\\Assignment2\\ExceptionHandlingSolution\\ClassLibrary1\\MyOperations.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\MyOperations.cs",
+              "ToolTip": "C:\\Users\\omgaw\\source\\repos\\DOTNET-PRACTICAL-AS\\Assignment2\\ExceptionHandlingSolution\\ClassLibrary1\\MyOperations.cs",
+              "RelativeToolTip": "ClassLibrary1\\MyOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:57:33.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omgaw\\source\\repos\\DOTNET-PRACTICAL-AS\\Assignment2\\ExceptionHandlingSolution\\ExceptionHandlingApp\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandlingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\omgaw\\source\\repos\\DOTNET-PRACTICAL-AS\\Assignment2\\ExceptionHandlingSolution\\ExceptionHandlingApp\\Program.cs",
+              "RelativeToolTip": "ExceptionHandlingApp\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:56:30.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

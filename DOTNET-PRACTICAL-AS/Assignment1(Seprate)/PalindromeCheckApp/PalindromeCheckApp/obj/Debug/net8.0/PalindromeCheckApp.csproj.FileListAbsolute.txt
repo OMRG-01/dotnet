@@ -1,0 +1,15 @@
+C:\Users\omgaw\source\repos\PalindromeCheckApp\PalindromeCheckApp\bin\Debug\net8.0\PalindromeCheckApp.exe
+C:\Users\omgaw\source\repos\PalindromeCheckApp\PalindromeCheckApp\bin\Debug\net8.0\PalindromeCheckApp.deps.json
+C:\Users\omgaw\source\repos\PalindromeCheckApp\PalindromeCheckApp\bin\Debug\net8.0\PalindromeCheckApp.runtimeconfig.json
+C:\Users\omgaw\source\repos\PalindromeCheckApp\PalindromeCheckApp\bin\Debug\net8.0\PalindromeCheckApp.dll
+C:\Users\omgaw\source\repos\PalindromeCheckApp\PalindromeCheckApp\bin\Debug\net8.0\PalindromeCheckApp.pdb
+C:\Users\omgaw\source\repos\PalindromeCheckApp\PalindromeCheckApp\obj\Debug\net8.0\PalindromeCheckApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omgaw\source\repos\PalindromeCheckApp\PalindromeCheckApp\obj\Debug\net8.0\PalindromeCheckApp.AssemblyInfoInputs.cache
+C:\Users\omgaw\source\repos\PalindromeCheckApp\PalindromeCheckApp\obj\Debug\net8.0\PalindromeCheckApp.AssemblyInfo.cs
+C:\Users\omgaw\source\repos\PalindromeCheckApp\PalindromeCheckApp\obj\Debug\net8.0\PalindromeCheckApp.csproj.CoreCompileInputs.cache
+C:\Users\omgaw\source\repos\PalindromeCheckApp\PalindromeCheckApp\obj\Debug\net8.0\PalindromeCheckApp.sourcelink.json
+C:\Users\omgaw\source\repos\PalindromeCheckApp\PalindromeCheckApp\obj\Debug\net8.0\PalindromeCheckApp.dll
+C:\Users\omgaw\source\repos\PalindromeCheckApp\PalindromeCheckApp\obj\Debug\net8.0\refint\PalindromeCheckApp.dll
+C:\Users\omgaw\source\repos\PalindromeCheckApp\PalindromeCheckApp\obj\Debug\net8.0\PalindromeCheckApp.pdb
+C:\Users\omgaw\source\repos\PalindromeCheckApp\PalindromeCheckApp\obj\Debug\net8.0\PalindromeCheckApp.genruntimeconfig.cache
+C:\Users\omgaw\source\repos\PalindromeCheckApp\PalindromeCheckApp\obj\Debug\net8.0\ref\PalindromeCheckApp.dll
